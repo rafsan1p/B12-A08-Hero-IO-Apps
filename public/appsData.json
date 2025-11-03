@@ -1,0 +1,578 @@
+[
+  {
+    "id": 1,
+    "image": "https://play-lh.googleusercontent.com/vaxxIC1qaXOd1q1hmL7c66N-Mp4LXuQIuBZGM0dPIbwmyWcJAXbhIIZ8hNBWvar54c_j=w240-h480-rw",
+    "title": "Notion: Notes, Tasks, AI",
+    "companyName": "Notion Labs, Inc.",
+    "description": "Notion is your all-in-one workspace where you can write notes, manage tasks, organize projects, and collaborate with teams. Whether you're a student planning coursework, a professional tracking projects, or someone who just wants to stay organized, Notion adapts to your needs. Create databases to track anything from job applications to reading lists. Design beautiful documents with embedded images, videos, and code snippets. Use templates for meeting notes, project trackers, or personal journals. Notion's flexible block system lets you drag and drop content anywhere, making organization intuitive. Share pages with teammates for real-time collaboration. Set reminders, assign tasks, and track progress with Kanban boards, calendars, and lists. Sync across all devices so your workspace is always accessible. With powerful search and filtering, finding information is instant. Notion replaces multiple apps, keeping everything in one place. Customize with colors, icons, and covers to make your workspace uniquely yours.",
+    "size": 61,
+    "reviews": 300000,
+    "ratingAvg": 4.6,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 12000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 210000 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://play-lh.googleusercontent.com/tw_coGKgk1K_zO-Ypf9zBKV1s-KT3dYN1MIUxIqtnbfmON5x_YmuoAr31gE4oSfJHNtA-aStTd-qe9R8S6NVyA=w240-h480-rw",
+    "title": "Duolingo: Language Lessons",
+    "companyName": "Duolingo Inc",
+    "description": "Learn languages the fun way with Duolingo! Whether you want to learn Spanish, French, German, Japanese, Korean, or over 40 other languages, Duolingo makes it engaging through game-like lessons. Complete daily challenges, earn streaks, and compete with friends on leaderboards. The app adapts to your learning style, offering personalized lessons that match your pace. Practice speaking, listening, reading, and writing with interactive exercises. Get instant feedback on pronunciation using speech recognition. Track your progress with detailed statistics and celebrate milestones with achievements. Duolingo's bite-sized lessons fit into any schedule - just 5 minutes a day can make a difference. The app is backed by science, using spaced repetition and proven teaching methods. Join over 500 million learners worldwide and start your language journey today. It's free, fun, and effective!",
+    "size": 120,
+    "reviews": 5800,
+    "ratingAvg": 4.7,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 3500 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://play-lh.googleusercontent.com/7ynvVIRdhJNAngCg_GI7i8TtH8BqkJYmffeUHsG-mJOdzt1XLvGmbsKuc5Q1SInBjDKN=w240-h480-rw",
+    "title": "Spotify: Music and Podcasts",
+    "companyName": "Spotify AB",
+    "description": "Discover millions of songs and podcasts on Spotify! Stream your favorite music, explore new artists, and create custom playlists. Enjoy personalized recommendations based on your listening habits with Discover Weekly and Daily Mix playlists. Download songs for offline listening when you're on the go. Follow your favorite artists to get notified about new releases. Share music with friends through social integrations. Listen to exclusive podcasts covering everything from true crime to comedy. Use voice search to find songs instantly. Control playback on multiple devices with Spotify Connect. Experience high-quality audio streaming with premium subscription. Create collaborative playlists with friends for parties or road trips. Access lyrics in real-time as songs play. Spotify works seamlessly across phones, tablets, computers, smart speakers, and TVs. Whether you're working out, studying, or relaxing, there's a soundtrack for every moment.",
+    "size": 95,
+    "reviews": 8900,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2550 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/c0/af/a9c0af1e-248d-2e7b-7491-2c0763520256/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/230x0w.webp",
+    "title": "Lightroom Photo & Video Editor",
+    "companyName": "Adobe Systems",
+    "description": "Transform your photos with Adobe Lightroom's powerful editing tools. Adjust exposure, contrast, highlights, shadows, and colors with precision sliders. Apply professional presets with one tap or create your own custom looks. Use selective editing to enhance specific areas of your photo. Remove unwanted objects with healing brush tools. Crop, rotate, and straighten images effortlessly. Organize photos into albums and sync across all devices with cloud storage. Share edited photos directly to social media. Learn new techniques with in-app tutorials from professional photographers. The intuitive interface makes complex edits simple for beginners while offering advanced controls for experts. Use AI-powered features like auto tone and auto enhance for quick improvements. Export high-resolution images for printing. Lightroom supports RAW files from professional cameras. Whether editing vacation photos or creating content for Instagram, Lightroom gives you complete creative control.",
+    "size": 180,
+    "reviews": 3200,
+    "ratingAvg": 4.5,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 380 },
+      { "name": "4 star", "count": 950 },
+      { "name": "5 star", "count": 1600 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/62/73/b562736d-56e3-b925-cd05-8daf9d7171dc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/230x0w.webp",
+    "title": "MyFitnessPal: Calorie Counter",
+    "companyName": "MyFitnessPal LLC",
+    "description": "Reach your fitness goals with MyFitnessPal, the top calorie and nutrition tracker. Log meals easily with the world's largest food database of over 14 million items. Scan barcodes to instantly add nutritional information. Track macros including protein, carbs, fats, and micronutrients. Set personalized goals for weight loss, maintenance, or muscle gain. Connect fitness trackers and apps to sync workouts and steps. Get insights into your eating patterns with detailed reports and charts. Join a supportive community for motivation and tips. Create custom foods and recipes for accurate tracking. Use meal reminders to stay on schedule. The app provides progress tracking with weight graphs and body measurements. Access expert articles on nutrition and fitness. MyFitnessPal makes healthy living simple by putting all the tools you need in one place. Whether counting calories or just eating mindfully, this app helps you stay accountable and achieve results.",
+    "size": 105,
+    "reviews": 4100,
+    "ratingAvg": 4.4,
+    "downloads": 220000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 420 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 2250 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://play-lh.googleusercontent.com/tUZNUbnNGw8I6uLg8Zy2ZWbmSFuT5kK0dYA8tdqNmldlozNS_jSjDw5j2nElRsoTzQ=w240-h480-rw",
+    "title": "Canva: AI Video & Photo Editor",
+    "companyName": "Canva Pty Ltd",
+    "description": "Create stunning designs with Canva's easy-to-use graphic design app. Choose from thousands of professionally designed templates for social media posts, presentations, posters, logos, and more. Customize templates with drag-and-drop simplicity. Add text with hundreds of fonts, adjust colors, and insert photos from your gallery or Canva's library of millions of stock images. Use design elements like shapes, stickers, and icons to enhance your creations. Animate text and graphics to make videos and GIFs. Collaborate with teams in real-time on shared projects. Access your designs anywhere with cloud sync. Export in various formats including PNG, JPG, PDF, and MP4. Canva's AI-powered tools suggest layouts and color combinations. Remove backgrounds from photos instantly. Create brand kits to maintain consistent branding. Whether designing a birthday invitation or a business presentation, Canva makes everyone a designer.",
+    "size": 160,
+    "reviews": 5200,
+    "ratingAvg": 4.7,
+    "downloads": 340000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 360 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 3400 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/2a/a6/332aa635-ecda-61d0-19fa-d65ca0f74023/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/217x0w.webp",
+    "title": "Headspace: Meditation & Health",
+    "companyName": "Headspace Inc",
+    "description": "Find peace and improve your well-being with Headspace. Guided meditations help reduce stress, improve focus, and promote better sleep. Choose from hundreds of sessions on topics like anxiety, stress, sleep, and personal growth. Start with basics courses if you're new to meditation. Use sleep sounds and sleepcasts for restful nights. Practice mindful breathing exercises anytime, anywhere. Track your meditation streaks and minutes to stay motivated. Get personalized recommendations based on your mood and goals. Learn from expert meditation teachers through video courses. Use the SOS feature for quick help during stressful moments. Integrate with health apps to monitor your wellness journey. Headspace also offers meditations for kids, making mindfulness a family activity. With daily sessions as short as 3 minutes, finding time for self-care is easy. Whether you're dealing with anxiety, seeking better sleep, or just wanting to feel calmer, Headspace guides you every step of the way.",
+    "size": 110,
+    "reviews": 3600,
+    "ratingAvg": 4.6,
+    "downloads": 195000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 340 },
+      { "name": "4 star", "count": 1060 },
+      { "name": "5 star", "count": 2000 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://play-lh.googleusercontent.com/9bJoeaPbGTB8Tz_h4N-p-6ReRd8vSS-frZb2tmJulaGIoTKElKj3zpmcFJvnS96ANZP5=w240-h480-rw",
+    "title": "Google Keep - Notes and lists",
+    "companyName": "Google LLC",
+    "description": "Capture ideas and organize your thoughts with Google Keep. Create notes with text, lists, images, and audio. Color-code notes and add labels for easy organization. Set reminders based on time or location so you never forget important tasks. Pin favorite notes to the top for quick access. Share notes with others for collaborative planning. Draw sketches or add handwritten notes. Use voice transcription to quickly capture thoughts. Search notes by color, label, or keyword. Archive old notes to keep your workspace clean. Access notes from any device - phone, tablet, or computer. Keep syncs across all devices instantly. Integrate with Google Docs to expand notes into full documents. Use the widget to view notes directly on your home screen. Whether it's a grocery list, meeting notes, or creative ideas, Google Keep keeps everything organized and accessible.",
+    "size": 45,
+    "reviews": 6200,
+    "ratingAvg": 4.5,
+    "downloads": 420000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 3400 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://play-lh.googleusercontent.com/Tt-6ZaQDUAjfSNSeLz4XyYkPsEQfVVp0lBtwrnuyqubhCna0LKu5OZxKgegBJIrEhz8=w240-h480-rw",
+    "title": "Trello: Manage Team Projects",
+    "companyName": "Atlassian",
+    "description": "Organize projects and tasks visually with Trello. Create boards for different projects and use cards to track individual tasks. Drag and drop cards between lists to show progress. Assign tasks to team members and set due dates. Add checklists, attachments, and comments to cards for detailed tracking. Use labels and colors to categorize work. Filter and search boards to find specific information quickly. Enable power-ups for calendar views, voting, and more functionality. Receive notifications when tasks are updated or deadlines approach. Collaborate with teams in real-time, perfect for remote work. Create templates for recurring projects. Sync boards across all devices. Trello adapts to any workflow - whether you're planning a wedding, managing a software project, or organizing content calendars. The visual nature makes it easy to see what's in progress and what needs attention. Stay productive and organized with this flexible project management tool.",
+    "size": 85,
+    "reviews": 2900,
+    "ratingAvg": 4.4,
+    "downloads": 165000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 320 },
+      { "name": "4 star", "count": 940 },
+      { "name": "5 star", "count": 1400 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://play-lh.googleusercontent.com/6Xe9DWiMC76daosOC80Im9gqe25Q9P55LxJIGPTLbcdFkMXOur4mk8jTVxoqOaiAvAG4=w240-h480-rw",
+    "title": "Grammarly-AI Writing Assistant",
+    "companyName": "Grammarly Inc",
+    "description": "Write confidently with Grammarly's AI-powered writing assistant. Get real-time suggestions for grammar, spelling, punctuation, and clarity. Improve your tone to match your audience whether writing emails, social posts, or documents. Grammarly works across all apps - no copy-pasting needed. Detect plagiarism and ensure originality in your writing. Get vocabulary suggestions to enhance your word choice. Grammarly Premium offers advanced style and tone recommendations. Set writing goals based on audience, formality, and intent. Track your writing statistics and progress over time. Use the keyboard on mobile to get suggestions while typing messages and posts. Generate text with AI assistance for emails and replies. Grammarly helps non-native English speakers improve fluency. Save custom words to your dictionary. Whether you're a student, professional, or casual writer, Grammarly makes your communication clear and effective.",
+    "size": 75,
+    "reviews": 4800,
+    "ratingAvg": 4.6,
+    "downloads": 280000,
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 440 },
+      { "name": "4 star", "count": 1360 },
+      { "name": "5 star", "count": 2700 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/3f/d4/eb3fd49b-31c3-172c-451f-b813b70aaf7e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/217x0w.webp",
+    "title": "Todoist: To Do List & Calendar",
+    "companyName": "Doist Inc",
+    "description": "Get organized and stay productive with Todoist. Create tasks and organize them into projects. Set due dates, priorities, and recurring schedules. Break down big tasks with sub-tasks and checklists. Use labels and filters to view tasks by context. Collaborate by sharing projects with team members. Add comments and files to tasks for context. Get reminders so you never miss a deadline. Sync across all devices - phone, web, desktop, and smart devices. Integrate with apps like Google Calendar, Slack, and Alexa. Use templates for common workflows. Visualize productivity with karma points and streak tracking. Use natural language to add tasks quickly (e.g., tomorrow at 3pm). Todoist adapts to personal and professional needs. Whether managing household chores or complex work projects, Todoist keeps you on track. Experience the satisfaction of checking off completed tasks and achieving your goals.",
+    "size": 55,
+    "reviews": 3100,
+    "ratingAvg": 4.7,
+    "downloads": 175000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 960 },
+      { "name": "5 star", "count": 1700 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://play-lh.googleusercontent.com/dVQlfnQ_Fp-wNfKv2eI9XxbLymV6oGW_0ywIw3pxhYyKhjC0Lk8y6Ru_-sUc1fq2akADzAN7QWn8nPvcw6Ck=w240-h480-rw",
+    "title": "Evernote - Note Organizer",
+    "companyName": "Evernote - Note Organizer",
+    "description": "Remember everything with Evernote, your digital notebook for capturing ideas, to-dos, and inspiration. Create notes with text, images, audio, and web clippings. Organize notes into notebooks and tag them for easy searching. Scan documents and business cards with your camera. Annotate PDFs and images directly in the app. Search handwritten notes and images with powerful OCR. Sync notes across all your devices seamlessly. Share notebooks with others for collaboration. Set reminders on individual notes. Create templates for meeting notes, project plans, and more. Integrate with Google Drive, Slack, and Microsoft Teams. Use the web clipper extension to save articles and websites. Evernote adapts to your workflow whether you're a student taking class notes, a professional managing projects, or someone collecting recipes and travel plans. With offline access, your notes are always available. Stay organized and productive with this versatile note-taking powerhouse.",
+    "size": 130,
+    "reviews": 3900,
+    "ratingAvg": 4.3,
+    "downloads": 210000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 470 },
+      { "name": "4 star", "count": 1190 },
+      { "name": "5 star", "count": 1900 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://play-lh.googleusercontent.com/S76GphUu2pZa249td2Bb4XAhLcPRrFdL1zp_5qU1ouukvRq9r0-8jJ-CruaTtdT6g84=w240-h480-rw",
+    "title": "Calm - Sleep, Meditate, Relax",
+    "companyName": "Calm.com Inc",
+    "description": "Discover better sleep, reduced anxiety, and improved mindfulness with Calm. Access guided meditations for beginners and experienced practitioners. Enjoy sleep stories narrated by soothing voices to help you drift off. Use breathing exercises to quickly calm your mind. Listen to relaxing music and nature sounds. Follow meditation programs focused on specific goals like reducing stress or building confidence. Track your meditation practice with statistics and streaks. Set daily reminders to maintain consistency. Explore masterclasses from mindfulness experts. Use the move feature for gentle stretching routines. Calm also offers meditations for kids to help children develop healthy habits. The app includes content for all ages and experience levels. Customize your experience by choosing session lengths from 3 to 25 minutes. Calm's beautiful visuals and peaceful content create an oasis of tranquility in your busy day. Whether battling insomnia, stress, or just seeking peace, Calm is your companion.",
+    "size": 125,
+    "reviews": 5500,
+    "ratingAvg": 4.8,
+    "downloads": 380000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1350 },
+      { "name": "5 star", "count": 3500 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://play-lh.googleusercontent.com/TpK0AcjPn5-XDKgSZ5jAob1H7MsQuJILOMR4M4QYkTt5CBPgTJVr7mysrKM6Ia8SrX8=w240-h480-rw",
+    "title": "Khan Academy",
+    "companyName": "Khan Academy",
+    "description": "Learn anything for free with Khan Academy. Access thousands of lessons in math, science, history, economics, and more. Watch instructional videos at your own pace. Practice with interactive exercises that adapt to your level. Track your progress with detailed analytics. Earn badges and points as you master skills. Khan Academy covers content from kindergarten through college level. Prepare for standardized tests like SAT, GMAT, and MCAT. The app works offline so you can learn anywhere. Parents can monitor children's progress and identify areas needing support. Teachers can assign content and track student performance. Khan Academy partners with institutions like NASA and MoMA to provide specialized content. The non-profit mission ensures quality education is accessible to everyone, everywhere. Whether you're a student supplementing classroom learning, an adult learning new skills, or a parent helping with homework, Khan Academy provides world-class educational resources completely free.",
+    "size": 140,
+    "reviews": 4600,
+    "ratingAvg": 4.7,
+    "downloads": 290000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 420 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 2600 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://play-lh.googleusercontent.com/j-ZV144PlVuTVsLuBzIKyEw9CbFnmWw9ku2NJ1ef0gZJh-iiIN1nrNPmAtvgAteyDqU=w240-h480-rw",
+    "title": "Strava: Run, Bike, Hike",
+    "companyName": "Strava Inc",
+    "description": "Track your running, cycling, and other activities with Strava. Use GPS to record distance, pace, speed, and elevation. Analyze performance with detailed statistics and graphs. Join challenges to stay motivated and compete with friends. Share activities with a supportive community of athletes. Follow friends and give kudos on their workouts. Discover popular routes in your area created by other users. Set personal goals and track progress over time. Connect compatible devices like smartwatches and heart rate monitors. Get real-time feedback during activities with audio cues. Use Strava's heatmap to find new places to explore. Create segments to compete on specific routes. Premium subscribers access advanced analytics, training plans, and live performance tracking. Whether you're training for a marathon, commuting by bike, or staying active, Strava helps you reach your fitness goals while connecting with a global community of athletes.",
+    "size": 90,
+    "reviews": 5100,
+    "ratingAvg": 4.5,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 490 },
+      { "name": "4 star", "count": 1470 },
+      { "name": "5 star", "count": 2800 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://play-lh.googleusercontent.com/NWRVVF6zXvmcqspJwdFOKcQG6OlsNwpMOxED_DgB6B2BBDeWwAeWZKZxGhgqU0LQVJU=w240-h480-rw",
+    "title": "Forest: Focus for Productivity",
+    "companyName": "Seekrtech",
+    "description": "Stay focused and beat phone addiction with Forest. Plant virtual trees that grow while you focus - leave the app and your tree dies. Gamification makes productivity rewarding and fun. Earn coins to plant different tree species. Build a beautiful forest as you accumulate focused time. Join friends in shared focus sessions. Use whitelist to allow essential apps during focus time. Set custom focus durations from 10 minutes to 2 hours. Tag sessions by activity to track where you spend time. Sync data across devices. Forest partners with real tree-planting organizations - spend coins to plant actual trees. View statistics to understand your productivity patterns. Create focus schedules for recurring work sessions. Use Forest for studying, working, reading, or any activity requiring concentration. The satisfying visual feedback and real-world impact make Forest unique among productivity apps. Reduce screen time, improve focus, and contribute to reforestation all in one app.",
+    "size": 60,
+    "reviews": 3400,
+    "ratingAvg": 4.6,
+    "downloads": 190000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 320 },
+      { "name": "4 star", "count": 1040 },
+      { "name": "5 star", "count": 1850 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://play-lh.googleusercontent.com/OSGRPjJEW3fzJYV3zcYGGGMifntRQeEI4ZTTscR59JJXT0qnw3MQL-O4W4P94xT_IA=w240-h480-rw",
+    "title": "Pocket Open Access",
+    "companyName": "Mozilla Corporation",
+    "description": "Save articles, videos, and web content to enjoy later with Pocket. One tap saves content from any app or browser. Access saved items offline anytime, anywhere. Pocket removes ads and clutter for distraction-free reading. Listen to articles with text-to-speech while commuting or exercising. Organize saves with tags for easy discovery. Get personalized recommendations based on your interests. Highlight and annotate saved articles. Share interesting finds with friends. Archive items you've finished reading. Search your saves by keyword or tag. Pocket syncs across all devices seamlessly. Discover trending articles curated by Pocket's community. Set reading goals and track your progress. Integrate with apps like Twitter, Flipboard, and news readers. Whether saving research for work, articles for leisure reading, or videos to watch later, Pocket helps you manage information overload. Build a personal library of knowledge accessible whenever you have time to read, watch, or listen.",
+    "size": 50,
+    "reviews": 2600,
+    "ratingAvg": 4.4,
+    "downloads": 145000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 850 },
+      { "name": "5 star", "count": 1320 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://play-lh.googleusercontent.com/js9LcEDMPaWBLW-kX6zrCxVwKDKTsvQRgIubQnZB0wQs4NfNcxPkNlXQOpIDXKX0y5Y=w240-h480-rw",
+    "title": "Habitica: Gamify Your Tasks",
+    "companyName": "HabitRPG Inc",
+    "description": "Turn your life into a game with Habitica. Create an avatar and level up by completing real-life tasks. Build healthy habits, accomplish goals, and fight monsters with friends. Add daily habits, to-do lists, and routines. Earn gold and experience points for completing tasks. Lose health when you skip habits. Use rewards to customize your avatar with armor, pets, and accessories. Join guilds and parties to stay accountable with others. Participate in challenges to build specific habits. The RPG elements make productivity addictive and fun. Sync across devices to track progress anywhere. Use reminders to maintain streaks. Habitica combines the best of productivity apps with gaming mechanics. Perfect for anyone who struggles with motivation or enjoys gamification. Whether building exercise habits, learning new skills, or managing chores, Habitica makes self-improvement an adventure. Battle bosses, collect pets, and become the hero of your own story.",
+    "size": 70,
+    "reviews": 2200,
+    "ratingAvg": 4.3,
+    "downloads": 125000,
+    "ratings": [
+      { "name": "1 star", "count": 85 },
+      { "name": "2 star", "count": 75 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 720 },
+      { "name": "5 star", "count": 1080 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://play-lh.googleusercontent.com/DNNk9f7y9jaAeRFMyGwZ3UY0KDcP5VKRm4GsKtJez6UN4xkm3hzhwsh3cC6yj7z32dQ=w240-h480-rw",
+    "title": "Blinkist: Book Summaries Daily",
+    "companyName": "Blinkist GmbH",
+    "description": "Discover key insights from bestselling nonfiction books in just 15 minutes with Blinkist. Read or listen to powerful ideas from thousands of books covering business, psychology, health, and personal development. Perfect for busy people who want to keep learning. Each Blink distills a book's core concepts into digestible chunks. Create a personalized library of topics you care about. Get daily recommendations based on your interests. Listen to audio versions during commutes or workouts. Sync reading progress across devices. Highlight key takeaways to revisit later. Share insights with friends and colleagues. Blinkist helps you stay informed and inspired without spending hours reading full books. Discover new authors and topics you might not have explored otherwise. Use Blinkist to decide which books deserve your full attention. Whether you're an entrepreneur seeking business strategies, a professional developing skills, or simply curious about the world, Blinkist makes learning accessible and efficient.",
+    "size": 95,
+    "reviews": 2800,
+    "ratingAvg": 4.5,
+    "downloads": 160000,
+    "ratings": [
+      { "name": "1 star", "count": 95 },
+      { "name": "2 star", "count": 85 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 920 },
+      { "name": "5 star", "count": 1420 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://play-lh.googleusercontent.com/GguSSKNcZdGw624xa9VqH71Sy6B12bHdlINY0RN_CltpzE51NgdFWkxesZuI4joVDrM=w240-h480-rw",
+    "title": "Coursera: Grow your career",
+    "companyName": "Coursera Inc",
+    "description": "Learn from world-class universities and companies with Coursera. Access thousands of courses in technology, business, data science, health, and more. Earn certificates and degrees from institutions like Stanford, Yale, and Google. Watch video lectures at your own pace. Complete assignments and quizzes to test understanding. Participate in discussion forums with learners worldwide. Download content for offline learning. Specialize in topics with multi-course programs. Build job-ready skills with hands-on projects. Track progress and earn certificates to showcase on LinkedIn. Coursera offers free courses and paid specializations. Financial aid available for those who qualify. Learn new programming languages, master digital marketing, or explore philosophy. Whether advancing your career, changing fields, or learning for personal enrichment, Coursera provides high-quality education accessible to everyone. Mobile learning means you can study during commutes or lunch breaks. Join millions of learners transforming their lives through education.",
+    "size": 115,
+    "reviews": 4300,
+    "ratingAvg": 4.6,
+    "downloads": 270000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 390 },
+      { "name": "4 star", "count": 1250 },
+      { "name": "5 star", "count": 2400 }
+    ]
+  },
+  {
+    "id": 21,
+    "image": "https://play-lh.googleusercontent.com/pwzZK-7oQexraeU0mOrQgFIck-QSS89rH0eWjehctp8XskRSpixPNVlA0YYlRXHbA2Iz=w240-h480-rw",
+    "title": "Audible: Audio Entertainment",
+    "companyName": "Audible Inc",
+    "description": "Listen to bestselling audiobooks, podcasts, and original content with Audible. Choose from hundreds of thousands of titles across all genres. Professional narration brings stories to life during commutes, workouts, or bedtime. Adjust playback speed to fit your listening style. Set sleep timers for nighttime listening. Download titles for offline access. Use bookmarks to save favorite moments. Audible Originals offer exclusive content you won't find elsewhere. Build a library of audiobooks you own forever. Get personalized recommendations based on listening history. Share audiobooks with family through household accounts. Follow along with whispersync while reading Kindle books. Discover podcasts covering true crime, comedy, news, and more. Whether enjoying fiction novels, learning from business books, or exploring new topics, Audible turns everyday moments into opportunities for stories and knowledge. Start with a free trial and discover why millions love audiobooks.",
+    "size": 105,
+    "reviews": 6800,
+    "ratingAvg": 4.7,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 190 },
+      { "name": "3 star", "count": 640 },
+      { "name": "4 star", "count": 2050 },
+      { "name": "5 star", "count": 3700 }
+    ]
+  },
+  {
+    "id": 22,
+    "image": "https://play-lh.googleusercontent.com/CRj2lEBk9-UqY1l45uDf-Naa6vLFBlmgXfUxCxKi9ES7cnS2DTXA3YUHklSVnKG7jLyhb4zSiBd7V2Z2Z8bm8w=w240-h480-rw",
+    "title": "Mint Personal Finance & Money",
+    "companyName": "Intuit Inc",
+    "description": "Take control of your finances with Mint. Connect bank accounts, credit cards, and investments in one place. Automatically categorize transactions to see where money goes. Set budgets for categories like dining, shopping, and entertainment. Get alerts when bills are due or you're near budget limits. Track spending trends over time with visual charts. Monitor credit score and get tips to improve it. Create savings goals and track progress. Receive personalized money-saving tips based on your spending. Identify subscriptions and recurring charges. Get bill payment reminders so you never miss a due date. View net worth by tracking all accounts together. Mint's secure platform protects your financial data with bank-level encryption. Free to use with no ads or hidden fees. Whether paying off debt, saving for a house, or just understanding spending habits, Mint provides clarity and control over your financial life. Make smarter money decisions with all your finances in view.",
+    "size": 85,
+    "reviews": 3700,
+    "ratingAvg": 4.4,
+    "downloads": 215000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1220 },
+      { "name": "5 star", "count": 1800 }
+    ]
+  },
+  {
+    "id": 23,
+    "image": "https://play-lh.googleusercontent.com/dar3zPlTbJYfHtH0hG4WOOK28ujJTj5kz51SwDuZc-HrmSgjZyavEDY_k4jmiJ9QwFo=w240-h480-rw",
+    "title": "Sleep Cycle: Sleep Tracker",
+    "companyName": "Sleep Cycle AB",
+    "description": "Wake up refreshed with Sleep Cycle's intelligent alarm. Analyzes sleep patterns using sound or motion detection. Wakes you during light sleep phase for easier mornings. Track sleep quality, duration, and interruptions. View detailed sleep statistics and trends over time. Record snoring or sleep talking for insights. Set backup alarms to ensure you wake up. Choose from gentle alarm sounds or favorite music. Get sleep quality score each morning. Identify factors affecting sleep like weather, stress, or exercise. Compare sleep data with steps, mood, and activities. Use sleep aid features like guided meditations and relaxing sounds. Sleep Cycle works with Apple Health and Google Fit. Premium features include heart rate monitoring, snore detection, and extended sleep history. Perfect for anyone wanting better sleep and easier mornings. Understand your sleep patterns, make improvements, and wake up feeling energized. Transform nights and mornings with intelligent sleep tracking.",
+    "size": 80,
+    "reviews": 4400,
+    "ratingAvg": 4.5,
+    "downloads": 240000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 420 },
+      { "name": "4 star", "count": 1420 },
+      { "name": "5 star", "count": 2300 }
+    ]
+  },
+  {
+    "id": 24,
+    "image": "https://play-lh.googleusercontent.com/nOIdGnvcac0-qefkx_JaxWj-Ae0VAdl3KzB2_2rYZoxdTDqRR9GmHp_w3ti7F0BdPH44=w240-h480-rw",
+    "title": "YNAB You Need A Budget",
+    "companyName": "YNAB LLC",
+    "description": "Change your financial life with YNAB's proven budgeting method. Give every dollar a job before spending it. Break paycheck-to-paycheck cycle with intentional money management. Connect bank accounts for automatic transaction import. Categorize spending with customizable budget categories. Roll with the punches by adjusting budgets as life happens. Age your money by spending last month's income. Set goals for debt payoff, emergency funds, or large purchases. Share budgets with partners for collaborative finances. Get reports showing spending trends and progress. Access on phone, tablet, and computer with real-time sync. YNAB offers educational workshops and resources to improve financial literacy. The app charges a subscription but saves users thousands per year. Join a community of people transforming their relationship with money. Whether drowning in debt or wanting to save more, YNAB provides structure and clarity. Stop wondering where money went and start telling it where to go.",
+    "size": 75,
+    "reviews": 2900,
+    "ratingAvg": 4.7,
+    "downloads": 155000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1600 }
+    ]
+  },
+  {
+    "id": 25,
+    "image": "https://play-lh.googleusercontent.com/Lfh8g5kPONfSNL7R4s8itnMMdj3lhmHU9tb4gp7eoOaXkJo0dOcwB6iWPdNGZMRDMVs=w240-h480-rw",
+    "title": "Skillshare: Online Classes App",
+    "companyName": "Skillshare Inc",
+    "description": "Learn creative skills with Skillshare's online classes. Explore thousands of courses in design, photography, business, and technology taught by industry experts. Classes consist of video lessons and hands-on projects. Learn at your own pace without deadlines. Download classes for offline viewing. Share projects with a creative community for feedback. Follow favorite teachers for new course notifications. Build a portfolio with completed projects. Skillshare Premium offers unlimited access to entire catalog. Discover new hobbies or advance professional skills. Classes range from beginner to advanced levels. Take classes on mobile during commutes or breaks. Get personalized recommendations based on interests. Join workshops and live sessions with instructors. Whether learning graphic design, photography, coding, or entrepreneurship, Skillshare makes quality education accessible. Start projects immediately with class materials provided. Join millions of learners exploring creativity and building skills. First month often free for new members.",
+    "size": 100,
+    "reviews": 3500,
+    "ratingAvg": 4.4,
+    "downloads": 195000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 115 },
+      { "name": "3 star", "count": 360 },
+      { "name": "4 star", "count": 1145 },
+      { "name": "5 star", "count": 1750 }
+    ]
+  },
+  {
+    "id": 26,
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/c1/03/8bc10363-d053-5a41-1e5e-907ff1c59cdc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/217x0w.webp",
+    "title": "Wysa: Mental Wellbeing AI",
+    "companyName": "Wysa Inc",
+    "description": "Get 24/7 mental health support with Wysa, your AI chatbot companion. Talk about feelings, thoughts, and challenges in a judgment-free space. Wysa uses evidence-based CBT techniques to help manage anxiety, stress, and depression. Practice mindfulness exercises and meditation. Build emotional resilience with daily tools and exercises. Track mood patterns over time. Access crisis support resources when needed. Conversations are anonymous and encrypted. Upgrade to speak with real therapists through video or chat. Use tools for better sleep, managing panic attacks, or building confidence. Wysa helps with relationship issues, workplace stress, and self-esteem. The penguin bot creates a friendly, approachable experience. Perfect for anyone seeking mental health support but hesitant about traditional therapy. Wysa complements professional care or serves as standalone support. Whether dealing with specific challenges or wanting general wellness tools, Wysa provides compassionate, accessible mental health resources anytime.",
+    "size": 65,
+    "reviews": 2100,
+    "ratingAvg": 4.6,
+    "downloads": 135000,
+    "ratings": [
+      { "name": "1 star", "count": 65 },
+      { "name": "2 star", "count": 55 },
+      { "name": "3 star", "count": 195 },
+      { "name": "4 star", "count": 725 },
+      { "name": "5 star", "count": 1060 }
+    ]
+  },
+  {
+    "id": 27,
+    "image": "https://play-lh.googleusercontent.com/RCvGCyMd1DilDDjN9w50DRw2Y1Q0GBtKOAdCMaVsVzskYYFc59xz9yh7UyEmhANNri_h=w240-h480-rw",
+    "title": "Goodreads: Book Reviews",
+    "companyName": "Amazon Inc",
+    "description": "Discover your next favorite book with Goodreads. Track books you've read, want to read, or are currently reading. Rate and review books to share opinions with millions of readers. Get personalized recommendations based on your reading history. Join reading challenges to read more books yearly. Follow friends to see what they're reading. Browse curated lists and genre recommendations. Scan book barcodes to quickly add titles to shelves. Set reading goals and track progress. Participate in book clubs and discussion groups. Follow favorite authors for updates on new releases. Use quotes section to save and share favorite passages. Compare your books with friends to find common interests. Goodreads helps you organize your literary life and connect with fellow book lovers. Whether reading for pleasure, education, or professional development, Goodreads makes managing and discovering books easy. Build virtual bookshelves, write reviews, and join the world's largest community of readers.",
+    "size": 55,
+    "reviews": 5600,
+    "ratingAvg": 4.3,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 240 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1760 },
+      { "name": "5 star", "count": 2800 }
+    ]
+  },
+  {
+    "id": 28,
+    "image": "https://play-lh.googleusercontent.com/rvGKVcfHwU4_61dfTi75XC3-NoaPERlJ0v_5bGLPdya5HTMTA8pYqep_1PpbZfLj0w=w240-h480-rw",
+    "title": "Yousician: Learn & Play Guitar",
+    "companyName": "Yousician Ltd",
+    "description": "Learn guitar, piano, bass, ukulele, or singing with Yousician. Interactive lessons adapt to your skill level from beginner to advanced. Play along with real songs and get instant feedback on accuracy. Video tutorials teach proper technique. Complete missions and earn rewards for progress. Practice daily with personalized workout plans. Yousician listens through your microphone and shows what you played correctly. Progress at your own pace without pressure. Choose from thousands of songs across genres. Track improvements with detailed statistics. Weekly challenges keep practice fun and competitive. Premium subscription unlocks unlimited practice time and full song library. Perfect for anyone wanting to learn an instrument without expensive private lessons. Whether picking up music for the first time or improving existing skills, Yousician makes learning engaging and effective. Turn screen time into skill-building time with this innovative music education app.",
+    "size": 135,
+    "reviews": 3800,
+    "ratingAvg": 4.5,
+    "downloads": 225000,
+    "ratings": [
+      { "name": "1 star", "count": 145 },
+      { "name": "2 star", "count": 125 },
+      { "name": "3 star", "count": 395 },
+      { "name": "4 star", "count": 1235 },
+      { "name": "5 star", "count": 1900 }
+    ]
+  },
+  {
+    "id": 29,
+    "image": "https://play-lh.googleusercontent.com/yZsmiNjmji3ZoOuLthoVvptLB9cZ0vCmitcky4OUXNcEFV3IEQkrBD2uu5kuWRF5_ERA=w480-h960-rw",
+    "title": "Zoom Workplace",
+    "companyName": "Zoom Video Communications",
+    "description": "Connect with anyone on Zoom from anywhere with video calls and chat. Zoom is a reliable platform for video conferencing, webinars, and online meetings. Host or join meetings with HD video and audio quality. Screen sharing makes it easy to collaborate on documents and presentations. Virtual backgrounds let you customize your video appearance. Breakout rooms enable small group discussions during large meetings. Recording and transcription features help you capture important conversations. The whiteboard tool facilitates brainstorming and visual collaboration. Chat functionality keeps team communication flowing. Calendar integrations sync your schedule seamlessly. Zoom works across devices - desktop, mobile, and tablet. Security features include waiting rooms, passwords, and encryption. Perfect for remote work, online education, family gatherings, and business communications. The app supports hundreds of participants in a single meeting. Zoom has become essential for staying connected in our digital world.",
+    "size": 98,
+    "reviews": 7200,
+    "ratingAvg": 4.4,
+    "downloads": 580000,
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 720 },
+      { "name": "4 star", "count": 2160 },
+      { "name": "5 star", "count": 3800 }
+    ]
+  },
+  {
+    "id": 30,
+    "image": "https://play-lh.googleusercontent.com/KCMTYuiTrKom4Vyf0G4foetVOwhKWzNbHWumV73IXexAIy5TTgZipL52WTt8ICL-oIo=w480-h960-rw",
+    "title": "Facebook",
+    "companyName": "Meta Platforms Inc",
+    "description": "Connect with friends and the world around you on Facebook. Share photos, videos, and updates with your network. Stay updated with news feed showing posts from friends, pages, and groups you follow. React to posts with likes, comments, and shares. Create and join groups based on your interests. Facebook Marketplace lets you buy and sell locally. Events feature helps you discover and organize gatherings. Stories let you share moments that disappear after 24 hours. Messenger integration enables instant messaging. Watch videos from creators and pages you follow. Gaming tab connects you with friends for casual gaming. Dating feature helps you find meaningful relationships. Privacy controls let you manage who sees your content. Save posts to view later. Create fundraisers for causes you care about. Business pages help you promote your brand. Live video streaming connects you with audiences in real-time. Whether staying in touch with family, networking professionally, or discovering new interests, Facebook keeps you connected to what matters most.",
+    "size": 165,
+    "reviews": 12500,
+    "ratingAvg": 4.2,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 850 },
+      { "name": "2 star", "count": 620 },
+      { "name": "3 star", "count": 1530 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 5700 }
+    ]
+  },
+  {
+    "id": 31,
+    "image": "https://play-lh.googleusercontent.com/jKU64njy8urP89V1O63eJxMtvWjDGETPlHVIhDv9WZAYzsSxRWyWZkUlBJZj_HbkHA=w480-h960-rw",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "description": "Collaborate seamlessly with Microsoft Teams - your hub for teamwork. Chat, meet, call, and collaborate all in one place. Create channels for different projects or topics to keep conversations organized. Video meetings support up to 10,000 participants for large events. Screen sharing and recording make remote collaboration effective. Integrate with Microsoft 365 apps like Word, Excel, and PowerPoint. Share and co-edit files in real-time within Teams. @mentions ensure important messages get noticed. Teams works on desktop, mobile, and web browsers. Background blur and custom backgrounds enhance video calls. Breakout rooms facilitate focused group discussions. Live captions and transcripts improve accessibility. Security features protect sensitive business communications. Perfect for businesses, schools, and organizations of all sizes. Teams has become the standard for remote and hybrid work environments, enabling productivity from anywhere.",
+    "size": 142,
+    "reviews": 5900,
+    "ratingAvg": 4.3,
+    "downloads": 420000,
+    "ratings": [
+      { "name": "1 star", "count": 260 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 680 },
+      { "name": "4 star", "count": 1840 },
+      { "name": "5 star", "count": 2900 }
+    ]
+  },
+  {
+    "id": 32,
+    "image": "https://play-lh.googleusercontent.com/SWbS8z3NqFVHCEQc_6l-ZDdDj5qPGrWSK8hEWRSPHYm9s8958y6nTnoLolVHXlgKfXw=s96-rw",
+    "title": "Asana: Work Management",
+    "companyName": "Asana Inc",
+    "description": "Organize work and manage projects efficiently with Asana. Create tasks, set deadlines, and assign responsibilities to team members. Multiple project views including list, board, timeline, and calendar help visualize work differently. Subtasks break down complex projects into manageable steps. Custom fields track any type of information relevant to your workflow. Templates save time on recurring project types. Portfolios provide a bird's-eye view of multiple projects. Automations reduce manual work by triggering actions automatically. Dependencies ensure tasks happen in the right order. Milestones mark important project checkpoints. Integrate with 200+ tools including Slack, Google Drive, and Zoom. Goals feature connects daily work to company objectives. Workload view prevents team burnout by balancing assignments. Comments and file attachments keep all project communication in context. Status updates keep stakeholders informed without meetings. Whether managing marketing campaigns, product launches, or daily operations, Asana helps teams coordinate and deliver results faster.",
+    "size": 88,
+    "reviews": 2700,
+    "ratingAvg": 4.5,
+    "downloads": 152000,
+    "ratings": [
+      { "name": "1 star", "count": 95 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 295 },
+      { "name": "4 star", "count": 890 },
+      { "name": "5 star", "count": 1340 }
+    ]
+  }
+]

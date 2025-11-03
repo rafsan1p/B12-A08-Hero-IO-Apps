@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+a.active {
+  color: rgb(159, 98, 242);
+  font-weight: 600;
+}
+
+a.pending {
+  color: rgb(156, 163, 175);
+}
+
+a.transitioning {
+  view-transition-name: page-transition;
+}
