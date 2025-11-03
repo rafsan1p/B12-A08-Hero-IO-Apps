@@ -3,14 +3,15 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://github.com/rafsan1p/B12-A08-Hero-IO-Apps",
+  "homepage": "https://rafsan1p.github.io/B12-A08-Hero-IO-Apps",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "postbuild": "cpy dist/index.html dist/404.html",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.14",
@@ -31,6 +32,7 @@
     "@types/react": "^19.1.16",
     "@types/react-dom": "^19.1.9",
     "@vitejs/plugin-react": "^5.0.4",
+    "cpy-cli": "^6.0.0",
     "daisyui": "^5.1.28",
     "eslint": "^9.36.0",
     "eslint-plugin-react-hooks": "^5.2.0",
