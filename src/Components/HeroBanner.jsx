@@ -14,7 +14,7 @@ const HeroBanner = () => {
       </h1>
       <p className="text-gray-500 text-center max-w-3xl">
         At Hero IO, we craft innovative apps designed to make everyday life
-        simpler, smarter, and more exciting. Our goal is to turn your
+        simpler, smarter and more exciting. Our goal is to turn your
         ideas into digital experiences that truly make an impact.
       </p>
       <div className="flex gap-4 flex-wrap justify-center">

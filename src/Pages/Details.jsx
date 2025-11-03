@@ -156,7 +156,7 @@ const Details = () => {
                 
                 <button
                   onClick={handleViewInStore}
-                  className="btn btn-outline btn-primary font-bold md:w-[240px] w-full gap-2"
+                  className="btn btn-outline btn-primary font-bold md:w-60 w-full gap-2"
                 >
                   <ExternalLink className="w-5 h-5" />
                   View in Store
